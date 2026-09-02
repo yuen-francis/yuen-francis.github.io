@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Current CV"
+permalink: /cv/
+author_profile: true
+---
 
 **Francis Yuen**
 
