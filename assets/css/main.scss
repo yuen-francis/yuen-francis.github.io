@@ -53,31 +53,6 @@
 
 
 /* =========================================================
-   PROFILE PHOTO
-   ========================================================= */
-
-/*
-   Minimal Mistakes normally forces the author image into
-   a square. object-fit: cover prevents the image from being
-   stretched or squashed.
-*/
-
-.author__avatar {
-  width: 180px;
-  height: 180px;
-  overflow: hidden;
-}
-
-.author__avatar img {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-}
-
-
-/* =========================================================
    PUBLICATION PAGE WIDTH
    ========================================================= */
 
