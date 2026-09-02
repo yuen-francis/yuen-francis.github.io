@@ -4,15 +4,28 @@
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
-.page__content {
-  margin-left: 2em;
-  margin-right: 2em;
-}
-.publication {
+/* Make the publication column wider */
+.publications-page .page__content {
+  max-width: none;
   width: 100%;
-  font-size: 0.85em;
-  line-height: 1.5;
 }
+
+
+/* APA-style hanging indent */
+.publications-page .publication {
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+/* Don't apply the hanging indent to headings */
+.publications-page h1,
+.publications-page h2,
+.publications-page h3,
+.publications-page h4 {
+  padding-left: 0;
+  text-indent: 0;
+}
+
 .author__avatar {
   width: 180px;
   height: 180px;
