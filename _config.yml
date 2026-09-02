@@ -1,6 +1,21 @@
 # =========================================================
 # Site settings
 # =========================================================
+defaults:
+  # For all posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+  # For all pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
 
 title: "Francis Yuen"
 name: "Francis Yuen"
