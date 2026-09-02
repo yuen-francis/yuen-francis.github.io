@@ -1,32 +1,51 @@
+# =========================================================
 # Site settings
+# =========================================================
+
 title: "Francis Yuen"
 name: "Francis Yuen"
+
 description: "PhD Student, Developmental Psychology, The University of British Columbia"
+
 url: "https://yuen-francis.github.io"
 baseurl: ""
 
+
+# =========================================================
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+# =========================================================
 
-# Skin
-minimal_mistakes_skin: "air"
+theme: jekyll-bulma-theme
 
+
+# =========================================================
 # Plugins
-plugins:
-  - jekyll-include-cache
+# =========================================================
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+# =========================================================
 # Site author
+# =========================================================
+
 author:
   name: "Francis Yuen"
+
   avatar: "/assets/images/profile.jpg"
+
   bio: "PhD Student | Developmental Psychology, The University of British Columbia"
+
   location: "Vancouver, British Columbia"
 
   links:
+
     - label: "Current Institution"
       icon: "fas fa-university"
       url: "https://psych.ubc.ca/profile/francis-yuen/"
-      
+
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yfrancis0119@gmail.com"
@@ -39,30 +58,60 @@ author:
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-7570-123X"
 
+
+# =========================================================
 # Navigation
+# =========================================================
+
 include:
   - _pages
 
+
+# =========================================================
 # Reading
+# =========================================================
+
 read_more: "disabled"
 
+
+# =========================================================
 # Output
+# =========================================================
+
 permalink: /:categories/:title/
 
+
+# =========================================================
 # Markdown
+# =========================================================
+
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+
+# =========================================================
 # Collections
+# =========================================================
+
 collections:
+
   research:
     output: true
     permalink: /research/:path/
 
+
+# =========================================================
 # Defaults
+# =========================================================
+
 defaults:
+
   - scope:
       path: ""
       type: pages
+
     values:
-      layout: single
-      author_profile: true
+      layout: default
