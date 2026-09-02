@@ -2,10 +2,19 @@ remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 minimal_mistakes_skin: "air"
 
-title: "Francis Yuen"
-name: "Francis Yuen"
-description: "Developmental Psychologist"
-url: "https://yuen-francis.github.io"
+author:
+  name: "Francis Yuen"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Developmental Psychologist"
+  location: "Vancouver, Canada"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:YOUR_EMAIL"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "YOUR_GOOGLE_SCHOLAR_URL"
 
 plugins:
   - jekyll-include-cache
