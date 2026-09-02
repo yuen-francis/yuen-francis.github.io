@@ -15,7 +15,7 @@ baseurl: ""
 # Theme
 # =========================================================
 
-theme: jekyll-bulma-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 
 # =========================================================
@@ -23,6 +23,7 @@ theme: jekyll-bulma-theme
 # =========================================================
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
@@ -61,6 +62,24 @@ author:
 
 # =========================================================
 # Navigation
+# =========================================================
+
+navbar:
+  - name: "About"
+    url: "/"
+
+  - name: "Publications"
+    url: "/publications/"
+
+  - name: "Research"
+    url: "/research/"
+
+  - name: "CV"
+    url: "/cv/"
+
+
+# =========================================================
+# Pages
 # =========================================================
 
 include:
@@ -114,4 +133,4 @@ defaults:
       type: pages
 
     values:
-      layout: default
+      layout: page
