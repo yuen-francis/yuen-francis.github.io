@@ -1,0 +1,24 @@
+---
+---
+
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+/* Make the main content wider */
+.page {
+  width: 100%;
+}
+
+.page__content {
+  max-width: 100%;
+}
+
+/* Remove excessive right-side whitespace */
+.page__inner-wrap {
+  width: 100%;
+}
+
+/* Increase the overall content width */
+.layout--single .page {
+  max-width: 1500px;
+}
