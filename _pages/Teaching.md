@@ -5,63 +5,89 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+## Lecturer Experience
+### Current Position
 
-### The University of British Columbia
-Vancouver, British Columbia, Canada
+<strong>Sessional Lecturer</strong>, The University of British Columbia
+- PSYC348/349/448/449 -- Honours Seminar
 
-- <strong>Sessional Lecturer</strong>, PSYC348/349/448/449 -- <italics>Honours Seminar</italics>
-  Sept 2026 - Present
-  Sept 2025 - Apr 2026
+### 2025
 
-## Teaching Assistant Positions
+<strong>Sessional Lecturer</strong>, The University of British Columbia
+- PSYC348/349/448/449 -- Honours Seminar
 
-- <strong>Teaching Fellow</strong>, PSYC348/349/448/449 -- <italics>Honours Seminar</italics>
-  Sept 2024 - Apr 2025
-  
-  Sept 2022 - Apr 2023
-  
-  Sept 2021 - Apr 2022
+## Teaching Assistant Experience
+### 2026
 
-- <strong>Teaching Fellow</strong>, PSYC217 -- <italics>Research Methods</italics>
-  May 2026 - June 2026
-  
-  May 2025 - June 2025
-  
-  Sept 2023 - Dec 2023
-  
-  May 2023 - June 2023
-  
-  May 2021 - June 2021
-  
-  Sept 2020 - Dec 2021
+<strong>Teaching Fellow</strong>, The University of British Columbia
+- PSYC217 -- <italics>Research Methods</italics>
 
-- <strong>Teaching Assistant</strong>, PSYC218 -- <italics>Analysis of Behavioural Data</italics>
-  Jan 2023 - Apr 2023
-  
-  Jan 2021 - Apr 2021
+### 2025
 
-## Guest Lectures
+<strong>Teaching Fellow</strong>, The University of British Columbia
+- PSYC217 -- <italics>Research Methods</italics>
+
+### 2024
+
+<strong>Teaching Fellow</strong>, The University of British Columbia
+- PSYC348/349/448/449 -- <italics>Honours Seminar</italics>
+
+### 2023
+
+<strong>Teaching Fellow</strong>, The University of British Columbia
+
+- PSYC217 -- <italics>Research Methods</italics>
+- PSYC218 -- <italics>Analysis of Behavioural Data</italics>
+
+### 2022
+
+<strong>Teaching Fellow</strong>, The University of British Columbia
+
+- PSYC348/349/448/449 -- Honours Seminar
+
+### 2021
+
+<strong>Teaching Fellow</strong>, The University of British Columbia
+
+- PSYC348/349/448/449 -- Honours Seminar
+- PSYC217 -- <italics>Research Methods</italics>
+- PSYC218 -- <italics>Analysis of Behavioural Data</italics>
+
+### 2020
+
+<strong>Teaching Fellow</strong>, The University of British Columbia
+
+- PSYC217 -- <italics>Research Methods</italics>
+
+## Guest Lecture Experience
 
 ### 2026
-- <strong>The University of British Columbia</strong>, PSYC302 -- <italics>Infancy</italics>
-  Invited by: Dr. Erica Flaten
+
+<strong>Invited by: Dr. Erica Flaten</strong>, The University of British Columbia
+- PSYC302 -- <italics>Infancy</italics>
+
   
 ### 2025
 
-- <strong>The University of British Columbia</strong>, PSYC333 -- <italics>Memory: Historical, Clinical, and Cognitive Perspectives</italics>
-  Invited by: Dr. Daniela Palombo
+<strong>Invited by: Dr. Daniela Palombo</strong>, The University of British Columbia
 
-- <strong>University of California, San Diego</strong>, PSYC193L -- <italics>Methods of Infant Cognition</italics>
-  Invited by: Dr. Alexis Smith-Flores
+- PSYC333 -- <italics>Memory: Historical, Clinical, and Cognitive Perspectives</italics>
+  
+<strong>Invited by: Dr. Alexis Smith-Flores</strong>, University of California, San Diego
+
+- PSYC193L -- <italics>Methods of Infant Cognition</italics>
 
 ### 2024
-- <strong>Kwantlen Polytechnic University</strong>, Psychology 3316 -- <italics>Infancy</italics>
-  Invited by: Dr. Anthea Pun
 
+<strong>Invited by: Dr. Anthea Pun</strong>, Kwantlen Polytechnic University
+- Psychology 3316 -- <italics>Infancy</italics>
+  
 ### 2023
-- <strong>The University of British Columbia</strong>, PSYC302 -- <italics>Infancy</italics>
-  Invited by: Dr. Anthea Pun
+
+<strong>Invited by: Dr. Anthea Pun</strong>, The University of British Columbia
+
+- PSYC302 -- <italics>Infancy</italics>
+  
   
 
 
