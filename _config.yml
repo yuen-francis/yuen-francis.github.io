@@ -2,7 +2,7 @@
 title: "Francis Yuen"
 description: "PhD Student, Developmental Psychology, The University of British Columbia"
 url: "https://yuen-francis.github.io"
-baseurl: "https://yuen-francis.github.io"
+baseurl: ""
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
