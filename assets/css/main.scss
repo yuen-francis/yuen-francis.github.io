@@ -1,133 +1,135 @@
 ---
+
 ---
 
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
+/* =========================================================
+PROFILE PHOTO
+========================================================= */
+
 .author__avatar {
-  width: 180px !important;
-  height: 180px !important;
-  border-radius: 50% !important;
-  overflow: hidden !important;
+width: 180px !important;
+height: 180px !important;
+border-radius: 50% !important;
+overflow: hidden !important;
 }
 
 .author__avatar img {
-  width: 180px !important;
-  height: 180px !important;
-  max-width: none !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  object-position: center !important;
-  display: block !important;
+width: 180px !important;
+height: 180px !important;
+max-width: none !important;
+border-radius: 50% !important;
+object-fit: cover !important;
+object-position: center !important;
+display: block !important;
 }
+
 /* =========================================================
-   PUBLICATIONS
-   ========================================================= */
+PUBLICATIONS
+========================================================= */
 
-/* Use the available horizontal space more efficiently */
-.page__content {
-  max-width: 100%;
+/* Every individual publication */
+.publication {
+font-size: 0.88em;
+line-height: 1.55;
+
+/* APA hanging indent */
+padding-left: 2em;
+text-indent: -2em;
+
+margin-bottom: 1.2em;
+
+/* Allow publication to fill its container */
+width: 100%;
+max-width: none;
 }
 
-/* Publication entries */
-.publications {
-  font-size: 0.88em;
-  line-height: 1.55;
-  
-  /* APA hanging indent */
-  padding-left: 2em;
-  text-indent: -2em;
-
-  margin-bottom: 1.2em;
+/* Bold author's name */
+.publication strong {
+font-weight: 700;
 }
 
-/* Make sure links don't interfere with indentation */
-.publications a {
-  text-indent: 0;
+/* Links */
+.publication a {
+text-indent: 0;
 }
 
-/* Keep headings normally aligned */
+/* =========================================================
+HEADINGS
+========================================================= */
+
 .page__content h1,
 .page__content h2,
 .page__content h3,
 .page__content h4 {
-  padding-left: 0;
-  text-indent: 0;
+padding-left: 0;
+text-indent: 0;
 }
 
-/* Slightly tighter publication headings */
 .page__content h2 {
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
+margin-top: 1.5em;
+margin-bottom: 0.8em;
 }
 
 .page__content h3 {
-  margin-top: 1.3em;
-  margin-bottom: 0.6em;
+margin-top: 1.3em;
+margin-bottom: 0.6em;
 }
 
-
 /* =========================================================
-   PUBLICATION PAGE WIDTH
-   ========================================================= */
+PUBLICATIONS PAGE — EXPAND CONTENT COLUMN
+========================================================= */
 
 /*
-   Give the publication text more room while keeping the
-   author sidebar intact.
+Minimal Mistakes uses a grid for the author sidebar
+and main content. These rules make the main content
+column occupy the remaining available width.
 */
 
-.layout--single .page__content {
-  max-width: none;
-}
-
-
-/* On larger screens, slightly reduce the gap between
-   the author sidebar and publication content. */
-
 @media (min-width: 64em) {
-  .layout--single .page__content {
-    width: calc(100% + 2em);
-  }
+
+.layout--single .archive {
+width: 100% !important;
+max-width: none !important;
 }
 
+.layout--single .page {
+width: 100% !important;
+max-width: none !important;
+}
+
+.layout--single .page__inner-wrap {
+width: 100% !important;
+max-width: none !important;
+}
+
+.layout--single .page__content {
+width: 100% !important;
+max-width: none !important;
+float: none !important;
+}
+
+.layout--single .publication {
+width: 100% !important;
+max-width: none !important;
+}
+}
 
 /* =========================================================
-   MOBILE
-   ========================================================= */
+MOBILE
+========================================================= */
 
 @media (max-width: 63.99em) {
-  .layout--single .page__content {
-    width: 100%;
-  }
 
-  .publications {
-    font-size: 0.92em;
-    padding-left: 1.5em;
-    text-indent: -1.5em;
-  }
+.layout--single .page__content {
+width: 100%;
 }
 
-/* =========================================================
-   PUBLICATIONS PAGE — USE AVAILABLE WIDTH
-   ========================================================= */
-
-@media (min-width: 64em) {
-
-  /* Main content area */
-  .layout--single .page__content {
-    width: auto !important;
-    max-width: none !important;
-  }
-
-  /* Allow the content column to expand */
-  .layout--single .page__inner-wrap {
-    width: auto !important;
-    max-width: none !important;
-  }
-
-  /* Publication text */
-  .layout--single .publication {
-    max-width: none !important;
-    width: 100% !important;
-  }
+.publication {
+font-size: 0.92em;
+padding-left: 1.5em;
+text-indent: -1.5em;
+}
 }
