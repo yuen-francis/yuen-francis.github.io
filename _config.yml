@@ -5,7 +5,7 @@ minimal_mistakes_skin: "air"
 title: "Francis Yuen"
 name: "Francis Yuen"
 description: "Developmental Psychologist"
-url: "https://YOURUSERNAME.github.io"
+url: "https://yuen-francis.github.io"
 
 plugins:
   - jekyll-include-cache
