@@ -19,10 +19,14 @@ plugins:
 author:
   name: "Francis Yuen"
   avatar: "/assets/images/profile.jpg"
-  bio: "PhD Student, Developmental Psychology, The University of British Columbia"
-  location: "Vancouver, British Columbia, Canada"
+  bio: "PhD Student | Developmental Psychology, The University of British Columbia"
+  location: "Vancouver, British Columbia"
 
   links:
+    - label: "Current Institution"
+      icon: "fas fa-university"
+      url: "https://psych.ubc.ca/profile/francis-yuen/"
+      
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yfrancis0119@gmail.com"
@@ -30,6 +34,10 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=h-MUIzsAAAAJ&hl=en"
+
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-7570-123X"
 
 # Navigation
 include:
