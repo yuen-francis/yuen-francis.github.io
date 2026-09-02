@@ -12,17 +12,3 @@ plugins:
 
 include:
   - _pages
-  
-author:
-  name: "Francis Yuen"
-  avatar: "/assets/images/profile.jpg"
-  bio: "PhD Student, Developmental Psychology"
-  location: "Vancouver, British Columbia"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yfrancis0119@gmail.com"
-
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=h-MUIzsAAAAJ&hl=en"
