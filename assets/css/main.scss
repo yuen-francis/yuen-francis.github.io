@@ -15,7 +15,7 @@
 }
 
 /* Publication entries */
-.publications {
+.publication {
   font-size: 0.88em;
   line-height: 1.55;
   
@@ -27,7 +27,7 @@
 }
 
 /* Make sure links don't interfere with indentation */
-.publications a {
+.publication a {
   text-indent: 0;
 }
 
@@ -85,7 +85,7 @@
     width: 100%;
   }
 
-  .publications {
+  .publication {
     font-size: 0.92em;
     padding-left: 1.5em;
     text-indent: -1.5em;
