@@ -1,3 +1,18 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+
+minimal_mistakes_skin: "air"
+
+title: "Francis Yuen"
+name: "Francis Yuen"
+description: "Developmental Psychologist"
+url: "https://YOURUSERNAME.github.io"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+  
 author:
   name: "Francis Yuen"
   avatar: "/assets/images/profile.jpg"
