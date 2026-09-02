@@ -2,3 +2,10 @@ theme: minima
 
 title: Francis Yuen
 description: Developmental Psychologist
+
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
