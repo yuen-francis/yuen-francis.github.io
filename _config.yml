@@ -5,17 +5,19 @@
 title: "Francis Yuen"
 name: "Francis Yuen"
 
-description: "PhD Student, Developmental Psychology, The University of British Columbia"
+description: "PhD Student in Developmental Psychology at The University of British Columbia"
 
 url: "https://yuen-francis.github.io"
 baseurl: ""
+
+repository: "yuen-francis/yuen-francis.github.io"
 
 
 # =========================================================
 # Theme
 # =========================================================
 
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+remote_theme: "mmistakes/minimal-mistakes"
 
 
 # =========================================================
@@ -23,13 +25,20 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 # =========================================================
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
 
 
 # =========================================================
-# Site author
+# Minimal Mistakes skin
+# =========================================================
+
+minimal_mistakes_skin: "default"
+
+
+# =========================================================
+# Author
 # =========================================================
 
 author:
@@ -43,8 +52,8 @@ author:
 
   links:
 
-    - label: "Current Institution"
-      icon: "fas fa-university"
+    - label: "University of British Columbia"
+      icon: "fas fa-fw fa-university"
       url: "https://psych.ubc.ca/profile/francis-yuen/"
 
     - label: "Email"
@@ -56,30 +65,12 @@ author:
       url: "https://scholar.google.com/citations?user=h-MUIzsAAAAJ&hl=en"
 
     - label: "ORCID"
-      icon: "fab fa-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-7570-123X"
 
 
 # =========================================================
 # Navigation
-# =========================================================
-
-navbar:
-  - name: "About"
-    url: "/"
-
-  - name: "Publications"
-    url: "/publications/"
-
-  - name: "Research"
-    url: "/research/"
-
-  - name: "CV"
-    url: "/cv/"
-
-
-# =========================================================
-# Pages
 # =========================================================
 
 include:
@@ -94,13 +85,6 @@ read_more: "disabled"
 
 
 # =========================================================
-# Output
-# =========================================================
-
-permalink: /:categories/:title/
-
-
-# =========================================================
 # Markdown
 # =========================================================
 
@@ -112,6 +96,13 @@ kramdown:
 
 
 # =========================================================
+# Permalinks
+# =========================================================
+
+permalink: /:categories/:title/
+
+
+# =========================================================
 # Collections
 # =========================================================
 
@@ -119,6 +110,7 @@ collections:
 
   research:
     output: true
+
     permalink: /research/:path/
 
 
@@ -128,9 +120,43 @@ collections:
 
 defaults:
 
+  # -------------------------
+  # Pages
+  # -------------------------
+
   - scope:
       path: ""
       type: pages
 
     values:
-      layout: page
+      layout: single
+      author_profile: true
+
+
+  # -------------------------
+  # Research
+  # -------------------------
+
+  - scope:
+      path: ""
+      type: research
+
+    values:
+      layout: single
+      author_profile: true
+
+
+# =========================================================
+# Footer
+# =========================================================
+
+footer:
+  links:
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=h-MUIzsAAAAJ&hl=en"
+
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-7570-123X"
