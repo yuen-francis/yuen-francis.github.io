@@ -1,11 +1,14 @@
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
-title: Francis Yuen
-description: Developmental Psychologist
+minimal_mistakes_skin: "air"
 
-header_pages:
-  - about.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - cv.md
+title: "Francis Yuen"
+name: "Francis Yuen"
+description: "Developmental Psychologist"
+url: "https://YOURUSERNAME.github.io"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
