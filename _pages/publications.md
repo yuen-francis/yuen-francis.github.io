@@ -19,7 +19,7 @@ Schuwerk, T., Kampis, D., Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K
 
 {: .publication}
 
-McMillan, B. T. M., Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., **Yuen, F.** L., Zettersten, M., & Byers-Heinlein, K. (2026). What 5000 babies can tell us about developing minds and how to study them. *Communications Psychology*, *4*(1), 92. https://doi.org/10.1038/s44271-026-00477-w
+McMillan, B. T. M., Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., **Yuen, F.**, Zettersten, M., & Byers-Heinlein, K. (2026). What 5000 babies can tell us about developing minds and how to study them. *Communications Psychology*, *4*(1), 92. https://doi.org/10.1038/s44271-026-00477-w
 
 **Yuen, F.**, Black, A. K., & Hamlin, J. K. (2026). “I know who the bad guy is!” Infants map the word “bad” to hinderers, but not the word “good” to helpers. *Frontiers in Developmental Psychology*, *4*. https://doi.org/10.3389/fdpys.2026.1812110
 
