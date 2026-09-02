@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* Indicates shared first-authorship
+\* Indicates shared first-authorship
 
 # Journal Publications
 
