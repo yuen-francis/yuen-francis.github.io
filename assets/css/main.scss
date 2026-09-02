@@ -4,6 +4,7 @@
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
-.page {
-  padding-left: 2em;
+.page__content {
+  margin-left: 2em;
+  margin-right: 2em;
 }
