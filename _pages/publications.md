@@ -1,15 +1,19 @@
 ---
-layout: page
-title: Publications
+layout: single
+title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 ## 2026
 
-**Yuen, F.**, & Author, A. (2026). Title of article. *Journal Name.*
+**Yuen, F.**, & Smith, J. (2026).  
+Title of article. *Journal of Experimental Child Psychology.*
 
-**Author, B.**, & **Yuen, F.** (2026). Title of article. *Journal Name.*
+**Yuen, F.**, & Jones, A. (2026).  
+Title of article. *Developmental Psychology.*
 
 ## 2025
 
-**Yuen, F.**, & Author, C. (2025). Title of article. *Journal Name.*
+**Yuen, F.**, & Smith, J. (2025).  
+Title of article. *Journal Name.*
