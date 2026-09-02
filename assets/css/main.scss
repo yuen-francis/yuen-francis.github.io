@@ -8,18 +8,18 @@
 
 /* Main page text */
 .page__content {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .author__avatar {
   width: 180px;
-  height: 180px;
+  height: auto;
 }
 
 .author__avatar img {
   width: 180px;
-  height: 180px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 
 /* =========================================================
@@ -44,10 +44,17 @@ text-indent: 0;
 }
 
 /* Keep headings normally aligned */
-.page__content h1,
-.page__content h2,
-.page__content h3,
+.page__content h1,{
+  font-size = 26px;
+}
+.page__content h2,,{
+  font-size = 20px;
+}
+.page__content h3,,{
+  font-size = 20px;
+}
 .page__content h4 {
+font-size = 20px;
 padding-left: 0;
 text-indent: 0;
 }
