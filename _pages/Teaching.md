@@ -18,19 +18,27 @@ Vancouver, British Columbia, Canada
 
 - <strong>Teaching Fellow</strong>, PSYC348/349/448/449 -- <italics>Honours Seminar</italics>
   Sept 2024 - Apr 2025
+  
   Sept 2022 - Apr 2023
+  
   Sept 2021 - Apr 2022
 
 - <strong>Teaching Fellow</strong>, PSYC217 -- <italics>Research Methods</italics>
   May 2026 - June 2026
+  
   May 2025 - June 2025
+  
   Sept 2023 - Dec 2023
+  
   May 2023 - June 2023
+  
   May 2021 - June 2021
+  
   Sept 2020 - Dec 2021
 
 - <strong>Teaching Assistant</strong>, PSYC218 -- <italics>Analysis of Behavioural Data</italics>
   Jan 2023 - Apr 2023
+  
   Jan 2021 - Apr 2021
 
 ## Guest Lectures
