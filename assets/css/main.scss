@@ -5,6 +5,17 @@
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
+.author__avatar {
+  width: 180px;
+  height: 180px;
+}
+
+.author__avatar img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
 /* =========================================================
 PUBLICATIONS
 ========================================================= */
