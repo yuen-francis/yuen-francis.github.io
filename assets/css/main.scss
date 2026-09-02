@@ -4,7 +4,22 @@
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
+.author__avatar {
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+}
 
+.author__avatar img {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block !important;
+}
 /* =========================================================
    PUBLICATIONS
    ========================================================= */
@@ -89,5 +104,30 @@
     font-size: 0.92em;
     padding-left: 1.5em;
     text-indent: -1.5em;
+  }
+}
+
+/* =========================================================
+   PUBLICATIONS PAGE — USE AVAILABLE WIDTH
+   ========================================================= */
+
+@media (min-width: 64em) {
+
+  /* Main content area */
+  .layout--single .page__content {
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  /* Allow the content column to expand */
+  .layout--single .page__inner-wrap {
+    width: auto !important;
+    max-width: none !important;
+  }
+
+  /* Publication text */
+  .layout--single .publication {
+    max-width: none !important;
+    width: 100% !important;
   }
 }
