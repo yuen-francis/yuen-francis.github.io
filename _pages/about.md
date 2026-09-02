@@ -9,4 +9,4 @@ Humans are incredibly social and cooperative creatures, and it is precisely thes
 
 I am currently a PhD student at the University of British Columbia, supervised by Dr. J. Kiley Hamlin, conducting research at the [Center for Infant Cognition](https://cic.psych.ubc.ca/). I am also highly involved with the [ManyBabies Consortium](https://manybabies.org/), as well as the [CONNECT partnership](https://connect-btss.github.io/).
 
-You can find a copy of my [CV here](https://docs.google.com/document/d/1Kp__glXz3oT6sKEm3AuD0a-ador60C77/edit?usp=sharing&ouid=101720640620912648461&rtpof=true&sd=true).
+You can find a copy of my CV here either as a [Word doc](https://docs.google.com/document/d/1Kp__glXz3oT6sKEm3AuD0a-ador60C77/edit?usp=sharing&ouid=101720640620912648461&rtpof=true&sd=true) or a [PDF](https://drive.google.com/file/d/1oXe0Qpkwke80j9Av3ss0CgStdS1ZfTXw/view?usp=sharing).
