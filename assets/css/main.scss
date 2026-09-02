@@ -4,51 +4,6 @@
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
-/* =========================================
-   PUBLICATION PAGE LAYOUT
-   ========================================= */
-
-/* Keep the author profile separate from the
-   main publication content */
-@media (min-width: 1024px) {
-
-  /* Remove some of the unnecessary right-side
-     spacing from the main page container */
-  .page {
-    padding-right: 0;
-  }
-
-  /* Allow the publication content to fill
-     its assigned column */
-  .page__content {
-    width: 100%;
-  }
-
-}
-
-
-/* =========================================
-   PUBLICATION FORMATTING
-   ========================================= */
-
-/* APA-style hanging indent */
-
-.publication {
-  margin-bottom: 1.5em;
+.page {
   padding-left: 2em;
-  text-indent: -2em;
-  line-height: 1.5;
-}
-
-
-/* =========================================
-   PUBLICATION LINKS
-   ========================================= */
-
-.publication a {
-  text-decoration: none;
-}
-
-.publication a:hover {
-  text-decoration: underline;
 }
