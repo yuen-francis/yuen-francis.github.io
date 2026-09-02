@@ -43,4 +43,4 @@ Woo, B. M., Tan, E., **Yuen, F.**, & Hamlin, J. K. (2023). Socially evaluative c
 
 # Book Chapters
 
-\* Hamlin, J. K. & \***Yuen, F.** (2025). Morality in infancy. In Malle, B. & Robbins, P. (Eds.), *Cambridge Handbook of Moral Psychology*.
+\*Hamlin, J. K. & \***Yuen, F.** (2025). Morality in infancy. In Malle, B. & Robbins, P. (Eds.), *Cambridge Handbook of Moral Psychology*.
