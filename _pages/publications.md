@@ -30,9 +30,8 @@ McMillan, B. T. M., Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K
 
 {: .publication}
 
-*Lucca, K., ***Yuen, F.**, Wang, Y., Alessandroni, N., Allison, O., Alvarez, M., Axelsson, E. L., Baumer, J., Baumgartner, H. A., Bertels, J., Bhavsar, M., Byers-Heinlein, K., Capelier-Mourguy, A., Chijiiwa, H., Chin, C. S.-S., Christner, N., Cirelli, L. K., Corbit, J., Daum, M. M., … Hamlin, J. K. (2025). Infants’ social evaluation of helpers and hinderers: A large-Scale, multi-Lab, coordinated replication study. *Developmental Science*, *28*(1), e13581. https://doi.org/10.1111/desc.13581
+\*Lucca, K., \***Yuen, F.**, Wang, Y., Alessandroni, N., Allison, O., Alvarez, M., Axelsson, E. L., Baumer, J., Baumgartner, H. A., Bertels, J., Bhavsar, M., Byers-Heinlein, K., Capelier-Mourguy, A., Chijiiwa, H., Chin, C. S.-S., Christner, N., Cirelli, L. K., Corbit, J., Daum, M. M., … Hamlin, J. K. (2025). Infants’ social evaluation of helpers and hinderers: A large-Scale, multi-Lab, coordinated replication study. *Developmental Science*, *28*(1), e13581. https://doi.org/10.1111/desc.13581
 
-</div>
 
 ## 2024
 
@@ -60,4 +59,4 @@ Woo, B. M., Tan, E., **Yuen, F.**, & Hamlin, J. K. (2023). Socially evaluative c
 
 {: .publication}
 
-*Hamlin, J. K. & ***Yuen, F.** (2025). Morality in infancy. In Malle, B. & Robbins, P. (Eds.), *Cambridge Handbook of Moral Psychology*.
+\*Hamlin, J. K. & \***Yuen, F.** (2025). Morality in infancy. In Malle, B. & Robbins, P. (Eds.), *Cambridge Handbook of Moral Psychology*.
