@@ -1,9 +1,8 @@
 # Site settings
 title: "Francis Yuen"
-name: "Francis Yuen"
-description: "Developmental Psychologist"
+description: "PhD Student, Developmental Psychology, The University of British Columbia"
 url: "https://yuen-francis.github.io"
-baseurl: ""
+baseurl: "https://yuen-francis.github.io"
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
@@ -19,8 +18,8 @@ plugins:
 author:
   name: "Francis Yuen"
   avatar: "/assets/images/profile.jpg"
-  bio: "Developmental Psychologist"
-  location: "Montreal, Quebec"
+  bio: "PhD Student, Developmental Psychology, The University of British Columbia"
+  location: "Vancouver, British Columbia, Canada"
 
   links:
     - label: "Email"
