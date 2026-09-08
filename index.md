@@ -3,7 +3,6 @@ layout: single
 title: "About Me"
 author_profile: true
 ---
-<meta name="google-site-verification" content="S75pJkZVWM4Nq5rxMM7L8YUMhptBM3vwzc0yOI5TQvw" />
 
 Humans are incredibly social and cooperative creatures, and it is precisely these traits that allowed our species to flourish. At the same time, we are extremely exclusionary, constantly categorizing others into the "us" versus the "them". My research sits squarely at the intersection of these two seemingly juxtaposed phenomena, and asks **how group identity and membership impact social cognition**. Specifically, I investigate how young infants and children navigate social interactions, differentiate between "good guys" from "bad guys," and how they use information about group membership (e.g. language, race, etc.) to guide their behaviour.
 
