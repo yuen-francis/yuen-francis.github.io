@@ -14,6 +14,28 @@ author_profile: true
 Schuwerk, T., Kampis, D., Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Wiesmann, C. G., Hamlin, K., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., … <strong>Yuen, F.</strong>, … Rakoczy, H. (Stage 1 registered report, in-principle acceptance; Stage 2 under review). Action anticipation based on an agent’s epistemic state in toddlers and adults. <i>Child Development.</i> <a href="https://doi.org/10.31234/osf.io/x4jbm">doi</a>
 </div>
 
+<div class="publication">
+Soleimani, Z., <strong>Yuen, F.</strong>, Craig, S. M., & Hamlin, J. K. (in press). Not mutually exclusive: Evidence for sophisticated perception is insufficient to overturn theories of core social knowledge. Commentary on Bai et al. (2025), “Core perception”: Re-imagining precocious reasoning as sophisticated perceiving. <i>Behavioral and Brain Sciences</i>.
+</div>
+
+## Manuscripts in Preparation
+
+<div class="publication">
+<strong>Yuen, F.</strong>, Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. (manuscript in prep). ShinyValidator: A user-friendly Shiny application for validating data standards.
+</div>
+
+<div class="publication">
+<strong>Yuen, F.</strong>, Emberson, L., & Hamlin, J. K. (data collection completed; manuscript in prep). Infant statistical learning in social versus non-social stimuli. <a href="https://osf.io/fudnb/">preregistration</a>
+</div>
+
+<div class="publication">
+<strong>Yuen, F.</strong>, & Hamlin, J. K. (data collection completed; manuscript in prep). Infants differentially attribute social and non-social goals. <a href="https://osf.io/68uab/">preregistration 1</a> <a href="https://osf.io/p85f9/">preregistration 2</a>
+</div>
+
+<div class="publication">
+<strong>Yuen, F.</strong>, Birch, S., & Hamlin, J. K. (data collection completed; manuscript in prep). Preschoolers’ theory-of-mind capacities for ingroup and outgroup others. <a href="https://osf.io/d4e79/">preregistration</a> (embargoed)
+</div>
+
 ## 2026
 
 <div class="publication">
@@ -66,4 +88,10 @@ Woo, B. M., Tan, E., <strong>Yuen, F.</strong>, & Hamlin, J. K. (2023). Socially
 
 <div class="publication">
 *Hamlin, J. K. & *<strong>Yuen, F.</strong> (2025). <i>Morality in infancy.</i> In Malle, B. & Robbins, P. (Eds.), <i>Cambridge Handbook of Moral Psychology.</i>
+</div>
+
+# Software
+
+<div class="publication">
+<strong>Yuen, F.</strong>, Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. C. (2026). <i>ShinyValidator</i> (Version v2.1.1) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.23350856">doi</a>
 </div>
